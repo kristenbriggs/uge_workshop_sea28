@@ -1,3 +1,4 @@
+# List hidden directories.
 #thisIsAGoodClass
 # Change to home directory
 cd
@@ -86,6 +87,7 @@ git init
 git checkout canvas
 git branch canvas
 git subl .
+#This is where I operated on kittens!
 open Kittens.html
 cd seab-29
 git branch master
