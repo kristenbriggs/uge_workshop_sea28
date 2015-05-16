@@ -1,0 +1,28 @@
+Commands to commit changes:
+1: git init = initializes repo
+2: git status = checks status of untracked or tracked files; can be used anytime
+3: git add <file name> = stages file to be committed
+4: git commit -m 'notes' = commits changes to file and adds comments in single quotes if just notes, or double quotes if using possessive syntax.
+
+
+A dirty file mean that there are untracked changes to a file by, this is noted with a red x.
+
+When there is a clean file, this means that all changed have been committed. This is marked with a green check mark.
+
+
+# Parts of a Git Commit
+
+# A Commit consists of
+# 1. The Author
+# 2. The Timestamp
+# 3. Your comments
+# 4. The ID unique to that file
+# 5. The change itself
+
+# Once you've completed a git commit you type 'git log' and what will pop up is
+
+"commit 358d857bb13aa177f01346064a9a9de24b03a721
+Author: Cierra Figaro <cierra.figaro@outlook.com>
+Date:   Sat May 16 14:37:59 2015 -0700
+
+   adding unix notes, first draft"
