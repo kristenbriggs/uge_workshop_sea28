@@ -1,0 +1,1234 @@
+#thisIsAGoodClass
+# Change to home directory
+cd
+#Pipe output of history to the pager less
+history | less
+history 5
+history | tail -r
+history | tail
+history
+cd /
+cd/
+pwd
+cd ..
+ls ..
+...
+cd ../.
+cd ...
+ls ~
+..
+cd .
+cd ../..
+ls
+cd FED\ Code\ Challenge/.
+cd Projects/
+cd seab-29/
+cd Code\ Fellows/
+cd Vote-Tracker/
+cd c
+cd\src
+cd src
+ls -l
+clang
+clear
+ls -a
+man ls
+ls -tz
+ls -TZ
+ls TZ
+ls tz
+ls -k
+man
+ls -ltr
+ls -rt
+ls -r
+ls -lt
+ls -t
+cd /
+cd
+git ll
+git config user.name
+git config user.email
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'kristenbriggs@gmail.com'
+git config --global user.name 'KRISTEN BRIGGS'
+git --version
+#Installed newer version of Homebrew
+brew install git
+brew unlink git
+brew --update git
+brew git update
+echo $PATH
+subl /etc/paths
+echo $Path
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+fish_update_completions
+brew install fish
+brew doctor
+brew update
+ls -g
+uname
+#Checking status of files before pushing
+git status
+git push origin master
+git merge canvas
+git checkout master
+git branch
+git push -u origin master
+git commit -m 'Kitten Competition'
+git remote add origin https://github.com/kristenbriggs/Vote-Tracker.git
+git add .
+git init
+git checkout canvas
+git branch canvas
+git subl .
+open Kittens.html
+cd seab-29
+git branch master
+git commit -m 'Marla\'s breasts'
+open Vote_tracker.html
+cd Projects
+node node.js
+cd /Users/admin/Code\ Fellows/seab-29/node_modules/express/node_modules/debug/
+node -v
+open toDo.html
+cd toDo\ List/
+cd FED\ Code\ Challenge/
+node HTTPServer.js
+cd HTTP\ Server/
+git checkout -b canvas
+git commit -m 'first commit'
+subl .
+subl
+cd Canvas/
+ls -ah
+cd projects
+rm -rf .git
+ls -ah
+cd ~
+git add chart_vt.js
+git push origin canvas
+git add branch
+git co branch canvas
+git remote add origin https://github.com/kristenbriggs/Vote_tracker.git
+git add README.md
+echo "# Vote_tracker" >> README.md
+cd Code\ Fellows\ \'15/
+cd Desktop/
+cd Code\ Fellows
+LS
+cd Applications/
+cd D
+git pull origin master
+ls -1[path]
+ls -l[path]
+ls b*
+touch -help
+touch --help
+touch
+man -kcanvas
+man -kw
+man -k
+-k
+man --help
+ls -a
+--debug
+file --help
+file
+bin/
+bin
+var Library/
+var log
+cd ls
+.
+ls Library/
+ls options
+/home/ryan
+user@bash: pwd
+echo
+git commit -m 'looking to merge'
+cd president_tracker/
+heroku create
+open index.html
+cd Public/
+git push --help
+git commit -m 'final hijinks added'
+git add --all
+git add -all
+git add .
+git add ../public/wheel.html
+git add ../public/song.mp3
+git add ../public/js/jquery.tinysort.js
+git add ../public/js/jquery-162.min.js
+git add ../public/js/cloudflare.min.js
+git add ../public/css/reset.css
+git add song.mp3
+git add Wheel.css
+open wheel.html
+cd Wheel/
+git add ../Wheel/nav-test.html
+cd public/
+CD Public/
+cd P
+open candidates.html
+open president_tracker/
+open nav-test.html
+git commit -m 'hyperlinks added'
+git add public/candidates.html
+git merge --no-ff jquery
+git commit -m 'made changes'
+git add public/js/scripts.js
+git merge master
+git checkout -b jquery origin/jquery
+git fetch origin
+.s
+git push heroku master
+node-js-getting-started
+git clone https://github.com/heroku/node-js-getting-started.git
+heroku login
+open Firebase.html
+cd Documents/
+cd
+open pie.html
+git push origin wheel
+git checkout -b wheel
+git commit -m 'added wheel files'
+ls wheel
+rm -r .git
+rm .git
+ls -l
+ls -la
+ls-la
+git branch wheel
+git branch wheel
+open wheel.html
+git commit -m 'added styles'
+git commit -m 'added h3'
+git add candidates.html
+Desktop
+git stash
+q
+git push origin content
+git commit -m 'added candidate content'
+git co -b content
+cd admin
+heroku git:remote -a pacific-spire-2511
+cd my-project/
+git remote heroku added
+$cd node-js-getting-started
+open spinwheel.html
+cd 8ball/
+git push origin candidates
+git push
+git pull origin candidates
+git co candidates
+git branch
+cd public
+git branch candidates
+git push -u origin vote
+open 8ball.html
+open 8ball/
+rm Header\ and\ footer\ content.pages
+rm Chart.js
+git rm Chart.js
+git checkout -b vote
+git commit -m 'added vote page'
+git add vote.html
+git push vote.html
+git commit -m 'added syntax'
+open vote.html
+rm roulette.js
+rm roulette.html
+rm roulette.css
+open roulette.html
+git commit -m 'fixed CSS'
+git add public/css/styles.css
+git push -u origin candidates
+git commit -m 'added images'
+git checkout candidates
+git checkout -b candidates
+git reset Header\ and\ footer\ content.pages
+git reset Chart.js
+git reset roulette.js
+git reset roulette.html
+git reset roulette.css
+git add public/Images/Webb.jpg
+git add public/Images/Rubio.jpg
+git add public/Images/Paul.jpg
+git add public/Images/OMalley.jpg
+git add public/Images/Cruz.jpg
+git add public/Images/Clinton.jpg
+git add public/Images/ .
+git add public/Images/
+git add public/index.html
+git add index.html
+git branch splash fix
+git pull
+cd Desktop/president_tracker/
+cd System/
+cd User\ Information/
+cd Library/
+git pull upstream master
+git remote add upstream git remote add upstream https://github.com/ryansobol/merge_chart.git
+cd merge_chart/
+git clone https://github.com/kristenbriggs/merge_chart.git
+git clone <!DOCTYPE html>
+cd Git_4_teams/
+mkdir Git_4_teams
+mkdir Git_4_teams & cd Git_4_teams
+git checkout 8bbcdf
+git remote
+git log
+rm -rf merge_chart/
+gs
+ll
+git commit -m 'added npm'
+git add package.json
+ks
+npm init
+git remote add origin https://github.com/kristenbriggs/president_tracker.git
+git commit -m 'added index'
+git add index.html
+president_tracker/
+Desktop/
+mkdir president_tracker
+rm ../Canvas/
+rm .
+git rm .
+cd Code\ Fellows/seab-29
+cd Code\ Fellows/seab-29ls
+brew install heroku-toolbelt
+open Donut_Shop_Model.html
+cd Donut_Shop/
+open Projects/
+open Ed_vt.html
+cd April\ 15/
+cd April 15
+cd notes/
+cd April_15
+cd April_15/
+open notes/
+rm ls
+$ echo "**node_modules/" >> .gitignore
+npm install express --save
+cd April 16
+cd master
+cd Code\ Fellows/seab-29/Projects/
+mk dir April 16
+node
+brew install node
+cd Images
+git push -u origin animate
+git commit -m 'I added animation'
+git checkout -b animate
+git checkout animate
+open client.html
+git commit -m
+git add Style.css
+git add Donut_Shop/
+subl .Style.css
+git add Donut_Shop_Model.html
+git branch animate
+git push -u origin layout
+git commit -m 'I added layouts'
+git commit Donut_Shop_constructor.js
+git add.
+top
+open canvas.html
+cd April_13/
+open Chart.html
+cd Chart.js/
+git push origin layout
+git add Style.css
+cd don
+open Saturday_April6
+cd Review/
+open Chart.js/
+la
+../..
+git add Events.js
+git add Donut_Shop_Model.js
+git checkout layout
+git branch layout
+man cp
+git push origin styles
+git commit -m 'Finished styling'
+git add donut_shop_model.js
+git checkout styles
+git branch styles
+git push origin events
+git pull origin events
+git commit -m 'Finished the events'
+git add Donut_Shops_constructor.js
+git checkout events
+git branch events
+git remote add origin https://github.com/kristenbriggs/Donut-Shop.git
+git commit -m 'Fixed major errors'
+mv Donut_Shop_Model.html Donut_Shop/
+mkdir Donut_Shop
+git commit -m 'Fixed all of it'
+open object_constructor.html
+open simple_render.html
+open blog_modeling.html
+open dom_manipulation.html
+open epicFailVideos.html
+open epicFailsVideos.html
+open Game.html
+git push origin DOM
+git commit -m 'Added DOM'
+git checkout -b DOM
+cd Guessing-Game/
+git clone https://github.com/kristenbriggs/Guessing-Game.git
+mkdir Guessing-Game
+git bra
+git pull https://github.com/kristenbriggs/Guessing-Game.git
+branch
+git
+rm -rf Game_constructor.html
+rm -rf Projects/
+rm -rf guessing-game/
+rm -rf Game.html
+rm -rf .game.html
+git branch DOM
+open Game_constructor.js
+cd se
+~
+open Game_constructor.html
+~
+cd seab-19
+git commit -m 'fixed merge conflict'
+git add Game.html
+git pull origin html
+subl Game.html
+subl .game.html
+git push origin html
+git commit -m 'Html assignment'
+cd guessing-game/
+mv Game.html ~/Projects/guessing-game/Game.html
+mv Game.html ~/guessing-game/Game.html
+git checkout -b html
+git checkout -b
+git checkout constructor
+git branch --delete Constructor_April_1
+git branch -la
+rm -rf guessing_game/
+cd
+cd guessing_game/
+mv for_loops.html ~/Code\ Fellows/seab-29/notes/
+cd hello_world
+cd helloworld
+cd hello world
+cd test
+cd name
+rm guessing-game/
+subl .guessing-game
+subl .guessing_game
+rm constructor.html
+subl .constructor
+mv Greet.html ~/Code\ Fellows/seab-29/notes/
+mv Game_constructor.html ~/Code\ Fellows/seab-29/Projects/
+rmdir test/
+rm test/
+subl .test
+mv Guess.html ~/Code\ Fellows/seab-29/notes/
+mv Guess2.html ~/Code\ Fellows/seab-29/notes/
+mv hello.html ~/Code\ Fellows/seab-29/notes/
+mv if_else.html ~/Code\ Fellows/seab-29/notes/
+mv obj_func_param.html ~/Code\ Fellows/seab-29/n
+mv obj_lit_this.html ~/Code\ Fellows/seab-29/notes/
+mv prototype.html ~/Code\ Fellows/seab-29/notes/
+mv ref_vs_value.html ~/Code\ Fellows/seab-29/notes/
+mv return_func.html ~/Code\ Fellows/seab-29/notes/
+mv ford_prefect.html ~/Code\ Fellows/seab-29/notes/
+mv basic_function.html ~/Code\ Fellows/seab-29/notes/
+mv Game.html ~/Code\ Fellows/seab-29/Projects/
+cd seab-29/Projects/
+mv Game.html Code\ Fellows/seab_29/Projects
+mv Game.html Code\ Fellows/seab_29/projects
+ls
+mkdir notes
+mkdir Projects
+mkdir seab-29
+cd Code Fellows
+git stat
+git branch html
+open game.html
+git push origin constructor
+git commit -m 'Added constructor'
+git add Game_constructor.html
+git checkout Constructor_April_1
+git branch -a
+git fetch
+open basic_html.html
+open basic_function.html
+open counter3.html
+open counter2.html
+open for_loops.html
+open guessing-game.html
+cd projects/
+git push -u Constructor_April_1
+git branch Constructor_April_1
+git push -u constructor
+git push -u origin constructor
+git checkout constructor
+git branch constructor
+ls -
+open if_else.html
+oen if_else.html
+open constructor.html
+open obj_lit_this.html
+open ref_vs_value.html
+ps aux | grep Chrome
+open return_func.html
+open Game.html
+cd ../guessing-game/
+cd ../guessing_game/
+open gussing-game
+dir Projects/
+cd dir projects
+git commit -m 'Added function and new question'
+git add readme.md
+git add game.html
+open readme.md
+git clone https://github.com/kristenbriggs/guessing_game.git
+git clone
+open guessing-game/
+open ford_prefect.html
+cd..
+mkdir projects
+cd test/
+mkdir test
+git remote -v
+git remote add origin https://github.com/kristenbriggs/Guessing-Game.git
+git commit -m "Added Read.me file"
+touch README.md
+git commit -m "This is the my first game code."
+git commit
+mv hello_world/ guessing-game
+mvdir hello_world/ guessing-game
+open Guess2.html
+cd hello-world
+git commit -m "first commit"
+git add README.md
+echo " Guessing-game" >> README.md
+open G
+open Guess
+open Guess2.html
+open Guess.html
+open Greet.html
+open name.html
+open hello.html
+open
+open hello
+cd hello_world/
+mkdir hello_world
+rmdir hello_word/
+mkdir hello_word
+git st
+$pw
+ls -1 ~
+la -
+git add git-notes.txt
+git-notes
+subl
+git checkout git-notes
+git checkout git_notes
+man git-push
+git remote
+git remote add origin https://github.com/kristenbriggs/uge_workshop.git
+git merge git-notes
+git checkout git_notes.txt
+git commit -m 'add git_notes'
+git add git_notes.txt
+git st
+touch git_notes.txt
+git branch git-notes
+git commit -m 'improve unix notes'
+git add unix_notes.txt
+subl unix_notes.txt
+git rm --cached unix_notes.txt
+git rm --cached
+git diff
+git reset unix_notes.txt
+git commit -m 'add unix notes'
+git i
+cd uge_workshop/
+man git-config
+mv uge_workshop/moving_around.txt uge_workshop/unix_notes.txt
+ls uge_workshop/
+mv moving_around.txt uge_workshop/
+mkdir uge_workshop
+subl moving_around.txt
+history >> moving_around.txt
+ll
+less moving_around.txt
+nano moving_around.txt
+cat moving_around.txt
+history > moving_around.txt
+history | sort | less
+history | sort
+man man
+Help
+h
+qc2movie
+q
+history
+/pattern
+p
+ls .
+cd music/iTunes/
+d
+cd ../../
+cd Music/
+cd Movies/
+cd mo
+cd Mu
+help function
+$ ls --h
+man -h
+man environment
+man ls
+man lscolors
+man -m
+-m
+ech
+ech $PATH
+echo $p
+echo $EDITOR
+brew in
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+1234
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath /Applications/Install\ OS\ X\ Yosemite.app
+sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume --applicationpath /Applications/Install\ OS\ X\ Yosemite.app
+sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia
+/Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia
+sudo /Applications/Install OS X Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled 1 --applicationpath /Applications/Install OS X Yosemite.app --nointeraction
+sudo /Applications/Install OS X Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled/ --applicationpath /Applications/Install OS X Yosemite.app/ --nointeraction
+sudo /Applications/InstallOSXYosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath /Applications/Install OS X Yosemite.app --nointeraction
+sudo /Applications/Install OS X Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath /Applications/Install OS X Yosemite.app --nointeraction
+sudo /Applications/Install OS X Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath /Applications/Install OS X Yosemite.app- -nointeraction
+sudo/Users/admin/Desktop/tdcurran/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia
+sudo/Users/admin/Desktop/tdcurran/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia --/Volumes/Untitled --applicationpath /Applications/install OS X Yosemite.app --nointeraction
+ls -rtl
+ls -rt
+ls -t | less
+ls -tr
+ls -t
+ls
+history > moving_around.txt
+cd
+history | less
+history 5
+history | tail -r
+history | tail
+history
+cd /
+cd/
+pwd
+cd ..
+ls ..
+...
+cd ../.
+cd ...
+ls ~
+..
+cd .
+cd ../..
+cd FED\ Code\ Challenge/.
+cd Projects/
+cd seab-29/
+cd Code\ Fellows/
+cd Vote-Tracker/
+cd c
+cd\src
+cd src
+ls -l
+clang
+clear
+ls -a
+man ls
+ls -tz
+ls -TZ
+ls TZ
+ls tz
+ls -k
+man
+ls -ltr
+ls -r
+ls -lt
+cd /
+cd
+git ll
+git config user.name
+git config user.email
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'kristenbriggs@gmail.com'
+git config --global user.name 'KRISTEN BRIGGS'
+git --version
+brew install git
+brew unlink git
+brew --update git
+brew git update
+echo $PATH
+subl /etc/paths
+echo $Path
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+fish_update_completions
+brew install fish
+brew doctor
+brew update
+ls -g
+uname
+git status
+git push origin master
+git merge canvas
+git checkout master
+git branch
+git push -u origin master
+git commit -m 'Kitten Competition'
+git remote add origin https://github.com/kristenbriggs/Vote-Tracker.git
+git add .
+git init
+git checkout canvas
+git branch canvas
+git subl .
+open Kittens.html
+cd seab-29
+git branch master
+git commit -m 'Marla\'s breasts'
+open Vote_tracker.html
+cd Projects
+node node.js
+cd /Users/admin/Code\ Fellows/seab-29/node_modules/express/node_modules/debug/
+node -v
+open toDo.html
+cd toDo\ List/
+cd FED\ Code\ Challenge/
+node HTTPServer.js
+cd HTTP\ Server/
+git checkout -b canvas
+git commit -m 'first commit'
+subl .
+subl
+cd Canvas/
+ls -ah
+cd projects
+rm -rf .git
+ls -ah
+cd ~
+git add chart_vt.js
+git push origin canvas
+git add branch
+git co branch canvas
+git remote add origin https://github.com/kristenbriggs/Vote_tracker.git
+git add README.md
+echo "# Vote_tracker" >> README.md
+cd Code\ Fellows\ \'15/
+cd Desktop/
+cd Code\ Fellows
+LS
+cd Applications/
+cd D
+git pull origin master
+ls -1[path]
+ls -l[path]
+ls b*
+touch -help
+touch --help
+touch
+man -kcanvas
+man -kw
+man -k
+-k
+man --help
+ls -a
+--debug
+file --help
+file
+bin/
+bin
+var Library/
+var log
+cd ls
+.
+ls Library/
+ls options
+/home/ryan
+user@bash: pwd
+echo
+git commit -m 'looking to merge'
+cd president_tracker/
+heroku create
+open index.html
+cd Public/
+git push --help
+git commit -m 'final hijinks added'
+git add --all
+git add -all
+git add .
+git add ../public/wheel.html
+git add ../public/song.mp3
+git add ../public/js/jquery.tinysort.js
+git add ../public/js/jquery-162.min.js
+git add ../public/js/cloudflare.min.js
+git add ../public/css/reset.css
+git add song.mp3
+git add Wheel.css
+open wheel.html
+cd Wheel/
+git add ../Wheel/nav-test.html
+cd public/
+CD Public/
+cd P
+open candidates.html
+open president_tracker/
+open nav-test.html
+git commit -m 'hyperlinks added'
+git add public/candidates.html
+git merge --no-ff jquery
+git commit -m 'made changes'
+git add public/js/scripts.js
+git merge master
+git checkout -b jquery origin/jquery
+git fetch origin
+.s
+git push heroku master
+node-js-getting-started
+git clone https://github.com/heroku/node-js-getting-started.git
+heroku login
+open Firebase.html
+cd Documents/
+cd
+open pie.html
+git push origin wheel
+git checkout -b wheel
+git commit -m 'added wheel files'
+ls wheel
+rm -r .git
+rm .git
+ls -l
+ls -la
+ls-la
+git branch wheel
+git branch wheel
+open wheel.html
+git commit -m 'added styles'
+git commit -m 'added h3'
+git add candidates.html
+Desktop
+git stash
+q
+git push origin content
+git commit -m 'added candidate content'
+git co -b content
+cd admin
+heroku git:remote -a pacific-spire-2511
+cd my-project/
+git remote heroku added
+$cd node-js-getting-started
+open spinwheel.html
+cd 8ball/
+git push origin candidates
+git push
+git pull origin candidates
+git co candidates
+git branch
+cd public
+git branch candidates
+git push -u origin vote
+open 8ball.html
+open 8ball/
+rm Header\ and\ footer\ content.pages
+rm Chart.js
+git rm Chart.js
+git checkout -b vote
+git commit -m 'added vote page'
+git add vote.html
+git push vote.html
+git commit -m 'added syntax'
+open vote.html
+rm roulette.js
+rm roulette.html
+rm roulette.css
+open roulette.html
+git commit -m 'fixed CSS'
+git add public/css/styles.css
+git push -u origin candidates
+git commit -m 'added images'
+git checkout candidates
+git checkout -b candidates
+git reset Header\ and\ footer\ content.pages
+git reset Chart.js
+git reset roulette.js
+git reset roulette.html
+git reset roulette.css
+git add public/Images/Webb.jpg
+git add public/Images/Rubio.jpg
+git add public/Images/Paul.jpg
+git add public/Images/OMalley.jpg
+git add public/Images/Cruz.jpg
+git add public/Images/Clinton.jpg
+git add public/Images/ .
+git add public/Images/
+git add public/index.html
+git add index.html
+git branch splash fix
+git pull
+cd Desktop/president_tracker/
+cd System/
+cd User\ Information/
+cd Library/
+git pull upstream master
+git remote add upstream git remote add upstream https://github.com/ryansobol/merge_chart.git
+cd merge_chart/
+git clone https://github.com/kristenbriggs/merge_chart.git
+git clone <!DOCTYPE html>
+cd Git_4_teams/
+mkdir Git_4_teams
+mkdir Git_4_teams & cd Git_4_teams
+git checkout 8bbcdf
+git remote
+git log
+rm -rf merge_chart/
+gs
+ll
+git commit -m 'added npm'
+git add package.json
+ks
+npm init
+git remote add origin https://github.com/kristenbriggs/president_tracker.git
+git commit -m 'added index'
+git add index.html
+president_tracker/
+Desktop/
+mkdir president_tracker
+rm ../Canvas/
+rm .
+git rm .
+cd Code\ Fellows/seab-29
+cd Code\ Fellows/seab-29ls
+brew install heroku-toolbelt
+open Donut_Shop_Model.html
+cd Donut_Shop/
+open Projects/
+open Ed_vt.html
+cd April\ 15/
+cd April 15
+cd notes/
+cd April_15
+cd April_15/
+open notes/
+rm ls
+$ echo "**node_modules/" >> .gitignore
+npm install express --save
+cd April 16
+cd master
+cd Code\ Fellows/seab-29/Projects/
+mk dir April 16
+node
+brew install node
+cd Images
+git push -u origin animate
+git commit -m 'I added animation'
+git checkout -b animate
+git checkout animate
+open client.html
+git commit -m
+git add Style.css
+git add Donut_Shop/
+subl .Style.css
+git add Donut_Shop_Model.html
+git branch animate
+git push -u origin layout
+git commit -m 'I added layouts'
+git commit Donut_Shop_constructor.js
+git add.
+top
+open canvas.html
+cd April_13/
+open Chart.html
+cd Chart.js/
+git push origin layout
+git add Style.css
+cd don
+open Saturday_April6
+cd Review/
+open Chart.js/
+la
+../..
+git add Events.js
+git add Donut_Shop_Model.js
+git checkout layout
+git branch layout
+man cp
+git push origin styles
+git commit -m 'Finished styling'
+git add donut_shop_model.js
+git checkout styles
+git branch styles
+git push origin events
+git pull origin events
+git commit -m 'Finished the events'
+git add Donut_Shops_constructor.js
+git checkout events
+git branch events
+git remote add origin https://github.com/kristenbriggs/Donut-Shop.git
+git commit -m 'Fixed major errors'
+mv Donut_Shop_Model.html Donut_Shop/
+mkdir Donut_Shop
+git commit -m 'Fixed all of it'
+open object_constructor.html
+open simple_render.html
+open blog_modeling.html
+open dom_manipulation.html
+open epicFailVideos.html
+open epicFailsVideos.html
+open Game.html
+git push origin DOM
+git commit -m 'Added DOM'
+git checkout -b DOM
+cd Guessing-Game/
+git clone https://github.com/kristenbriggs/Guessing-Game.git
+mkdir Guessing-Game
+git bra
+git pull https://github.com/kristenbriggs/Guessing-Game.git
+branch
+git
+rm -rf Game_constructor.html
+rm -rf Projects/
+rm -rf guessing-game/
+rm -rf Game.html
+rm -rf .game.html
+git branch DOM
+open Game_constructor.js
+cd se
+~
+open Game_constructor.html
+~
+cd seab-19
+git commit -m 'fixed merge conflict'
+git add Game.html
+git pull origin html
+subl Game.html
+subl .game.html
+git push origin html
+git commit -m 'Html assignment'
+cd guessing-game/
+mv Game.html ~/Projects/guessing-game/Game.html
+mv Game.html ~/guessing-game/Game.html
+git checkout -b html
+git checkout -b
+git checkout constructor
+git branch --delete Constructor_April_1
+git branch -la
+rm -rf guessing_game/
+cd
+cd guessing_game/
+mv for_loops.html ~/Code\ Fellows/seab-29/notes/
+cd hello_world
+cd helloworld
+cd hello world
+cd test
+cd name
+rm guessing-game/
+subl .guessing-game
+subl .guessing_game
+rm constructor.html
+subl .constructor
+mv Greet.html ~/Code\ Fellows/seab-29/notes/
+mv Game_constructor.html ~/Code\ Fellows/seab-29/Projects/
+rmdir test/
+rm test/
+subl .test
+mv Guess.html ~/Code\ Fellows/seab-29/notes/
+mv Guess2.html ~/Code\ Fellows/seab-29/notes/
+mv hello.html ~/Code\ Fellows/seab-29/notes/
+mv if_else.html ~/Code\ Fellows/seab-29/notes/
+mv obj_func_param.html ~/Code\ Fellows/seab-29/n
+mv obj_lit_this.html ~/Code\ Fellows/seab-29/notes/
+mv prototype.html ~/Code\ Fellows/seab-29/notes/
+mv ref_vs_value.html ~/Code\ Fellows/seab-29/notes/
+mv return_func.html ~/Code\ Fellows/seab-29/notes/
+mv ford_prefect.html ~/Code\ Fellows/seab-29/notes/
+mv basic_function.html ~/Code\ Fellows/seab-29/notes/
+mv Game.html ~/Code\ Fellows/seab-29/Projects/
+cd seab-29/Projects/
+mv Game.html Code\ Fellows/seab_29/Projects
+mv Game.html Code\ Fellows/seab_29/projects
+ls
+mkdir notes
+mkdir Projects
+mkdir seab-29
+cd Code Fellows
+git stat
+git branch html
+open game.html
+git push origin constructor
+git commit -m 'Added constructor'
+git add Game_constructor.html
+git checkout Constructor_April_1
+git branch -a
+git fetch
+open basic_html.html
+open basic_function.html
+open counter3.html
+open counter2.html
+open for_loops.html
+open guessing-game.html
+cd projects/
+git push -u Constructor_April_1
+git branch Constructor_April_1
+git push -u constructor
+git push -u origin constructor
+git checkout constructor
+git branch constructor
+ls -
+open if_else.html
+oen if_else.html
+open constructor.html
+open obj_lit_this.html
+open ref_vs_value.html
+ps aux | grep Chrome
+open return_func.html
+open Game.html
+cd ../guessing-game/
+cd ../guessing_game/
+open gussing-game
+dir Projects/
+cd dir projects
+git commit -m 'Added function and new question'
+git add readme.md
+git add game.html
+open readme.md
+git clone https://github.com/kristenbriggs/guessing_game.git
+git clone
+open guessing-game/
+open ford_prefect.html
+cd..
+mkdir projects
+cd test/
+mkdir test
+git remote -v
+git remote add origin https://github.com/kristenbriggs/Guessing-Game.git
+git commit -m "Added Read.me file"
+touch README.md
+git commit -m "This is the my first game code."
+git commit
+mv hello_world/ guessing-game
+mvdir hello_world/ guessing-game
+open Guess2.html
+cd hello-world
+git commit -m "first commit"
+git add README.md
+echo " Guessing-game" >> README.md
+open G
+open Guess
+open Guess2.html
+open Guess.html
+open Greet.html
+open name.html
+open hello.html
+open
+open hello
+cd hello_world/
+mkdir hello_world
+rmdir hello_word/
+mkdir hello_word
+git st
+$pw
+ls -1 ~
+la -
+git add git-notes.txt
+git-notes
+subl
+git checkout git-notes
+git checkout git_notes
+man git-push
+git remote
+git remote add origin https://github.com/kristenbriggs/uge_workshop.git
+git merge git-notes
+git checkout git_notes.txt
+git commit -m 'add git_notes'
+git add git_notes.txt
+git st
+touch git_notes.txt
+git branch git-notes
+git commit -m 'improve unix notes'
+git add unix_notes.txt
+subl unix_notes.txt
+git rm --cached unix_notes.txt
+git rm --cached
+git diff
+git reset unix_notes.txt
+git commit -m 'add unix notes'
+git i
+cd uge_workshop/
+man git-config
+mv uge_workshop/moving_around.txt uge_workshop/unix_notes.txt
+ls uge_workshop/
+mv moving_around.txt uge_workshop/
+mkdir uge_workshop
+subl moving_around.txt
+history >> moving_around.txt
+ll
+less moving_around.txt
+nano moving_around.txt
+cat moving_around.txt
+history | sort | less
+history | sort
+man man
+Help
+h
+qc2movie
+q
+history
+/pattern
+p
+ls .
+cd music/iTunes/
+d
+cd ../../
+cd Music/
+cd Movies/
+cd mo
+cd Mu
+help function
+$ ls --h
+man -h
+man environment
+man ls
+man lscolors
+man -m
+-m
+ech
+ech $PATH
+echo $p
+echo $EDITOR
+brew in
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+1234
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath /Applications/Install\ OS\ X\ Yosemite.app
+sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume --applicationpath /Applications/Install\ OS\ X\ Yosemite.app
+sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia
+/Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia
+sudo /Applications/Install OS X Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled 1 --applicationpath /Applications/Install OS X Yosemite.app --nointeraction
+sudo /Applications/Install OS X Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled/ --applicationpath /Applications/Install OS X Yosemite.app/ --nointeraction
+sudo /Applications/InstallOSXYosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath /Applications/Install OS X Yosemite.app --nointeraction
+sudo /Applications/Install OS X Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath /Applications/Install OS X Yosemite.app --nointeraction
+sudo /Applications/Install OS X Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath /Applications/Install OS X Yosemite.app- -nointeraction
+sudo/Users/admin/Desktop/tdcurran/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia
+sudo/Users/admin/Desktop/tdcurran/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia --/Volumes/Untitled --applicationpath /Applications/install OS X Yosemite.app --nointeraction
